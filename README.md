@@ -1,11 +1,11 @@
 <h1 align="center">
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30">  -->
 I go by the name whynesspower </h1>
-<h3 align="center">just another softwa3e developer, **probably** the one who would come up with an original idea, work on it from starting to shipping, deliver the product and in the end take feedbacks from the user to continuously improve it</h3>
+<h3 align="center">just another softwa3e developer, probably the one who would come up with an original idea, work on it from starting to shipping, deliver the product and in the end take feedbacks from the user to continuously improve it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whynesspower&label=Profile%20views&color=993276&style=flat" alt="whynesspower" /> </p>
 
-- 🌱 I’m currently learning **Blockchain, Crypto and NFT **
+- 🌱 I’m currently learning about **Blockchain, Crypto and NFT**
 
 - 📫 How to reach me : *yashrajshukla48@gmail.com**
 
@@ -33,6 +33,6 @@ I go by the name whynesspower </h1>
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynesspower&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=whynesspower"/></td></tr></table>
 
-![snake gif](https://github.com/AB-san/whynesspower/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/whynesspower/whynesspower/blob/output/github-contribution-grid-snake.svg)
 
 
