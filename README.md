@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30">  -->
-I go by the name whynesspower </h1>
+I go by the name whynesspower </h2>
 <h3 align="center">just another softwa3e developer, probably the one who would come up with an original idea, work on it from starting to shipping, deliver the product and in the end take feedbacks from the user to continuously improve it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whynesspower&label=Profile%20views&color=993276&style=flat" alt="whynesspower" /> </p>
