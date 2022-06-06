@@ -1,4 +1,4 @@
-[![Social banner for whynesspower](https://github.com/whynesspower/whynesspower/blob/main/bang-resources/banner-video.gif)](https://linktr.ee/whynesspower)‎‎‎‎‎‎‎
+[![Social banner for whynesspower](https://github.com/whynesspower/whynesspower/blob/main/bang-resources/banner-vid.gif)](https://linktr.ee/whynesspower)‎‎‎‎‎‎‎
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm whynesspower.
