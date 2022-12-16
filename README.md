@@ -2,7 +2,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=whynesspower&theme=react-dark&hide_border=true&area=true)
 
-<img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" />
+<!-- <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" /> -->
 
 - 🔭 I am building projects, writing algorithms or developing javascript based apps or something
 - 🥅 2023 Goals: Become a 10X developer
