@@ -1,4 +1,5 @@
-<p align="center"><img alt="Profile Banner" src="https://github.com/whynesspower/whynesspower/blob/main/bang-resources/Banner-Github2.0.png"></p>
+<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/77494053/216411766-aeeb7d47-b699-4afe-bdc9-33e05822dbce.png"></p>
+<!-- ![Banner-Github2 0]() -->
 
 <h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Yashraj!  </h1>
 
