@@ -1,9 +1,9 @@
 <p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/77494053/216413150-55060c64-cd9a-4faa-8de8-4238e561bf0c.png"></p>
 <!-- ![Banner-Github2 0]() -->
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=whynesspower2" target="blank"><img src="https://user-images.githubusercontent.com/77494053/216414990-77ac9731-ebac-4841-a65d-c8370b1ebbf2.png" height="40" alt="whynesspower2"/></a></p>
+<!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=whynesspower2" target="blank"><img src="https://user-images.githubusercontent.com/77494053/216414990-77ac9731-ebac-4841-a65d-c8370b1ebbf2.png" height="40" alt="whynesspower2"/></a></p> -->
 
-<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Yashraj!  </h1>
+<h1 align="center">Hey!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Yashraj!  </h1>
 
 ![](https://activity-graph.herokuapp.com/graph?username=whynesspower&theme=react-dark&hide_border=true&area=true)
 
