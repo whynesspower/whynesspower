@@ -1,7 +1,7 @@
 <p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/77494053/216413150-55060c64-cd9a-4faa-8de8-4238e561bf0c.png"></p>
 <!-- ![Banner-Github2 0]() -->
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=whynesspower2" target="blank"><img src="https://user-images.githubusercontent.com/51878265/213865864-b6f8d38a-21d4-495d-bebd-ef2978033ae4.png" height="40" alt="pradumna_saraf"/></a></p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=whynesspower2" target="blank"><img src="https://user-images.githubusercontent.com/77494053/216414990-77ac9731-ebac-4841-a65d-c8370b1ebbf2.png" height="40" alt="whynesspower2"/></a></p>
 
 <h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Yashraj!  </h1>
 
