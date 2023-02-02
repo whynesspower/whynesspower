@@ -1,3 +1,5 @@
+<p align="center"><img alt="Profile Banner" src="https://github.com/whynesspower/whynesspower/blob/main/bang-resources/Banner-Github2.0.png"></p>
+
 <h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Yashraj!  </h1>
 
 ![](https://activity-graph.herokuapp.com/graph?username=whynesspower&theme=react-dark&hide_border=true&area=true)
