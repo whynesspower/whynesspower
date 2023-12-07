@@ -6,11 +6,13 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=whynesspower2" target="blank"><img src="https://user-images.githubusercontent.com/77494053/216414990-77ac9731-ebac-4841-a65d-c8370b1ebbf2.png" height="40" alt="whynesspower2"/></a></p> -->
 
+
+<!--
 <h1 align="center">Hey!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Yashraj!  </h1>
 
-![](https://activity-graph.herokuapp.com/graph?username=whynesspower&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=whynesspower&theme=react-dark&hide_border=true&area=true) -->
 
-<!-- <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" /> -->
+<!-- <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" />
 
 - 🔭 I am building projects, writing algorithms or developing javascript based apps or something
 - 🥅 2023 Goals: Become a 10X developer
@@ -21,7 +23,7 @@
 
 </br>
 
-
+ -->
 
 
 <p align="center" >
@@ -54,4 +56,3 @@
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-<h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
